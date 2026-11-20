@@ -64,7 +64,7 @@ Menurut saya, cross-platform seperti Flutter cocok untuk pembelajaran dan pengem
 
 ## Deklarasi Penggunaan AI
 
-Saya menggunakan ChatGPT sebagai alat bantu untuk memahami langkah konfigurasi Git, menyusun dokumentasi README, dan mengatasi kendala selama pengerjaan. Kode, pengujian aplikasi, dan hasil akhir diperiksa kembali agar sesuai dengan tugas yang dikerjakan.
+Saya menggunakan Claude AI sebagai alat bantu untuk memahami langkah konfigurasi Git, menyusun dokumentasi README, dan mengatasi kendala selama pengerjaan. Kode, pengujian aplikasi, dan hasil akhir diperiksa kembali agar sesuai dengan tugas yang dikerjakan.
 
 ## Riwayat Commit
 
